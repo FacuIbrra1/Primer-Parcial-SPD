@@ -2,7 +2,7 @@
 # Integrantes:
 Mariano Rodriguez
 Facundo Ibarra Quiroz
-# Link: https://github.com/FacuIbrra1/Primer-Parcial-SPD/new/main?readme=1
+# Link: 
 # Primer Proyecto SPD:
 ![Tinkercad](./Img_Primera_Parte.png)
 
