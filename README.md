@@ -6,5 +6,6 @@ Facundo Ibarra Quiroz
 # Primer Proyecto SPD:
 ![Tinkercad](./Img_Primera_Parte.png)
 ![Tinkercad](./Img_Segunda_Parte.png)
+![Tinkercad](./Img_tercera_Parte.png)
 
 
